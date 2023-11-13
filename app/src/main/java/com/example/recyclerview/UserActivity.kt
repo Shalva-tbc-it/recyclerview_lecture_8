@@ -77,7 +77,6 @@ class UserActivity : AppCompatActivity() {
                             updateUser()
                         }
                     }
-
                     Toast.makeText(this@UserActivity, "Success", Toast.LENGTH_LONG).show()
                 } else {
                     Toast.makeText(this@UserActivity, "Please fill inputs", Toast.LENGTH_LONG)
