@@ -1,0 +1,26 @@
+package com.example.recyclerview.adapter
+
+import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
+
+
+class UsersAdapter(): RecyclerView.Adapter<UsersAdapter.UsersHolder>() {
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): UsersHolder {
+        TODO("Not yet implemented")
+    }
+
+    override fun getItemCount(): Int {
+        TODO("Not yet implemented")
+    }
+
+    override fun onBindViewHolder(holder: UsersHolder, position: Int) {
+        TODO("Not yet implemented")
+    }
+
+
+    inner class UsersHolder(): RecyclerView.ViewHolder() {
+
+    }
+
+}
