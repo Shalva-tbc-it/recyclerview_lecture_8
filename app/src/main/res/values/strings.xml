@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">RecyclerView</string>
     <string name="add_user">Add User</string>
+    <string name="firstname">FirstName:</string>
+    <string name="lastname">LastName:</string>
+    <string name="email">Email:</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
